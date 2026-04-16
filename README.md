@@ -65,13 +65,17 @@ Proje içerisinde boyutları büyük olan eğitimli ağırlık dosyaları (`.h5`
 
 ### Proje Ekran Görüntüleri
 ![Masaüstü Görünümü](desktop.png)
+
 ![Ekran Görüntüsü 1](Screenshot%202025-06-10%20205614.png)
+
 ![Ekran Görüntüsü 2](Screenshot%202025-07-04%20220903.png)
 
 ### Model Performans Metrikleri
 ![Metrics](metrics.png)
 ![Loss](loss.png)
+
 ![Epoch Accuracy](epoch%20acc.png)
+
 ![Confusion Matrix](confusion%20metrix.png)
 
 ### Büyüme Oranı (Growth Rate) Analizi
